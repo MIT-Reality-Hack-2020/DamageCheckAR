@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/MagicLeap/Scenes/ImageCapture.unity
+    guid: be6f49865dba3435b80c78e53e77301e
+  - enabled: 0
+    path: Assets/Main.unity
+    guid: 3c7bc843e7f5bee47854f4fcc5957141
+  - enabled: 1
+    path: Assets/Main_test.unity
+    guid: b26d1b868fa25b34a9800804c8dcd672
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 24b8501f319a8bf43be250a93598aeb6,
+      type: 2}
